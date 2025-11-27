@@ -1,5 +1,5 @@
 
-
+departamento(contabilidad).
 departamento(ventas).
 departamento(logistica).
 
